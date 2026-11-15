@@ -35,3 +35,7 @@ Example of difference in array or slices.
 #### Reverse array
 
 - ./golang/reverse-array
+
+#### Move zeros to array end
+
+- ./golang/move-zeros-to-array-end
