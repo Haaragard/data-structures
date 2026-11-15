@@ -12,14 +12,22 @@ Space complexity measures how much extra memory it requires
 
 - ./golang/*
 
-### Natural numbers
+### Basics
+
+#### Natural numbers
 
 Simple algorithm to test natural numbers.
 
 - ./golang/natural-numbers
 
-### Arrays vs. Slices
+#### Arrays vs. Slices
 
 Example of difference in array or slices.
 
 - ./golang/arrays-slices
+
+### Challenges
+
+#### Remove even numbers from array
+
+- ./golang/remove-even-numbers-from-array
