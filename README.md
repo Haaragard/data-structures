@@ -2,6 +2,8 @@
 
 ## GoLang
 
+- ./golang/*
+
 ### Natural numbers
 
 Simple algorithm to test natural numbers.
