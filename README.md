@@ -31,3 +31,7 @@ Example of difference in array or slices.
 #### Remove even numbers from array
 
 - ./golang/remove-even-numbers-from-array
+
+#### Reverse array
+
+- ./golang/reverse-array
