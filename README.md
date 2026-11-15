@@ -17,3 +17,9 @@ Space complexity measures how much extra memory it requires
 Simple algorithm to test natural numbers.
 
 - ./golang/natural-numbers
+
+### Arrays vs. Slices
+
+Example of difference in array or slices.
+
+- ./golang/arrays-slices
