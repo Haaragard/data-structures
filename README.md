@@ -43,3 +43,7 @@ Example of difference in array or slices.
 #### Missing number in array
 
 - ./golang/missing-number-in-array
+
+#### String is palindrome
+
+- ./golang/string-is-palindrome
