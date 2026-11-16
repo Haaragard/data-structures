@@ -26,6 +26,10 @@ Example of difference in array or slices.
 
 - ./golang/arrays-slices
 
+#### Linked list
+
+- ./golang/linked-list
+
 ### Challenges
 
 #### Remove even numbers from array
